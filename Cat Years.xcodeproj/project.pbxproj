@@ -12,6 +12,7 @@
 		FA8939001BD988EA001F476D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8938FE1BD988EA001F476D /* Main.storyboard */; };
 		FA8939021BD988EA001F476D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8939011BD988EA001F476D /* Assets.xcassets */; };
 		FA8939051BD988EA001F476D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8939031BD988EA001F476D /* LaunchScreen.storyboard */; };
+		FA89390D1BD989AB001F476D /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = FA89390C1BD989AB001F476D /* cat.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FA8939011BD988EA001F476D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA8939041BD988EA001F476D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA8939061BD988EA001F476D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA89390C1BD989AB001F476D /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FA8938FA1BD988EA001F476D /* AppDelegate.swift */,
 				FA8938FC1BD988EA001F476D /* ViewController.swift */,
 				FA8938FE1BD988EA001F476D /* Main.storyboard */,
+				FA89390C1BD989AB001F476D /* cat.png */,
 				FA8939011BD988EA001F476D /* Assets.xcassets */,
 				FA8939031BD988EA001F476D /* LaunchScreen.storyboard */,
 				FA8939061BD988EA001F476D /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				FA8939051BD988EA001F476D /* LaunchScreen.storyboard in Resources */,
 				FA8939021BD988EA001F476D /* Assets.xcassets in Resources */,
+				FA89390D1BD989AB001F476D /* cat.png in Resources */,
 				FA8939001BD988EA001F476D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
